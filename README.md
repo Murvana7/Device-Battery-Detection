@@ -3,7 +3,7 @@
 
 A lightweight web app that displays battery level and charging status using the JavaScript Battery Status API.
 
-✨ Features
+## ✨ Features
 
 - Shows battery percentage
 
@@ -13,7 +13,7 @@ A lightweight web app that displays battery level and charging status using the 
 
 - Fallback message for unsupported browsers
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
